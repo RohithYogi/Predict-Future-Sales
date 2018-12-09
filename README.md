@@ -4,7 +4,9 @@ Predict total sales for every product and store in the next month.
 
 # Vectorized Brains 
 -Rohith Yogi
+
 -Siddarth Reddy
+
 -Srujan Swaroop
 
 See our final score below:
